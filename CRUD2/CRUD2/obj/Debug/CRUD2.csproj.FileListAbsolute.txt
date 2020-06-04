@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\bin\Debug\CRUD2.exe.config
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\bin\Debug\CRUD2.exe
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\bin\Debug\CRUD2.pdb
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.Form1.resources
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.exe
+C:\Users\ASIF_PC\source\repos\CRUD2\CRUD2\obj\Debug\CRUD2.pdb

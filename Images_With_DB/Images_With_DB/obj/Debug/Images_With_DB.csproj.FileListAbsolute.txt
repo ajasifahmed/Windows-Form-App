@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\bin\Debug\Images_With_DB.exe.config
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\bin\Debug\Images_With_DB.exe
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\bin\Debug\Images_With_DB.pdb
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.Form1.resources
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.exe
+C:\Users\ASIF_PC\source\repos\Images_With_DB\Images_With_DB\obj\Debug\Images_With_DB.pdb

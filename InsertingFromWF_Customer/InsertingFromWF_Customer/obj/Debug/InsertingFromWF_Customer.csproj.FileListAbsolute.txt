@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\bin\Debug\InsertingFromWF_Customer.exe.config
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\bin\Debug\InsertingFromWF_Customer.exe
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\bin\Debug\InsertingFromWF_Customer.pdb
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.Form1.resources
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.exe
+C:\Users\ASIF_PC\source\repos\InsertingFromWF_Customer\InsertingFromWF_Customer\obj\Debug\InsertingFromWF_Customer.pdb

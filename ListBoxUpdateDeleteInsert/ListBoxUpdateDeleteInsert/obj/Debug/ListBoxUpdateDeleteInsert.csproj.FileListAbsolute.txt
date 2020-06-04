@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\bin\Debug\ListBoxUpdateDeleteInsert.exe.config
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\bin\Debug\ListBoxUpdateDeleteInsert.exe
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\bin\Debug\ListBoxUpdateDeleteInsert.pdb
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.Form1.resources
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.exe
+C:\Users\ASIF_PC\source\repos\ListBoxUpdateDeleteInsert\ListBoxUpdateDeleteInsert\obj\Debug\ListBoxUpdateDeleteInsert.pdb

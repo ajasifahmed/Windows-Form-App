@@ -1,0 +1,15 @@
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\CodeFirstEntityWf.exe.config
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\CodeFirstEntityWf.exe
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\CodeFirstEntityWf.pdb
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\EntityFramework.dll
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\EntityFramework.xml
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.Form1.resources
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.csproj.CopyComplete
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.exe
+C:\Users\ASIF_PC\source\repos\CodeFirstEntityWf\CodeFirstEntityWf\obj\Debug\CodeFirstEntityWf.pdb

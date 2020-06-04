@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\bin\Debug\Crud_Identity.exe.config
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\bin\Debug\Crud_Identity.exe
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\bin\Debug\Crud_Identity.pdb
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.Form1.resources
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.exe
+C:\Users\ASIF_PC\source\repos\Crud_Identity\Crud_Identity\obj\Debug\Crud_Identity.pdb

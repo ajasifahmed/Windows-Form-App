@@ -1,0 +1,14 @@
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\bin\Debug\MetroWF.exe.config
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\bin\Debug\MetroWF.exe
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\bin\Debug\MetroWF.pdb
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\bin\Debug\MetroFramework.dll
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.Form1.resources
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.csproj.CopyComplete
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.exe
+C:\Users\ASIF_PC\source\repos\MetroWF\MetroWF\obj\Debug\MetroWF.pdb

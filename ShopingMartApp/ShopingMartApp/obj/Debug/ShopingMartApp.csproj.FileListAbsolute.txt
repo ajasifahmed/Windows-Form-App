@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\bin\Debug\ShopingMartApp.exe.config
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\bin\Debug\ShopingMartApp.exe
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\bin\Debug\ShopingMartApp.pdb
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.Form1.resources
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.exe
+C:\Users\ASIF_PC\source\repos\ShopingMartApp\ShopingMartApp\obj\Debug\ShopingMartApp.pdb

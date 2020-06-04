@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\bin\Debug\SendingEmail.exe.config
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\bin\Debug\SendingEmail.exe
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\bin\Debug\SendingEmail.pdb
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.Form1.resources
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.exe
+C:\Users\ASIF_PC\source\repos\SendingEmail\SendingEmail\obj\Debug\SendingEmail.pdb

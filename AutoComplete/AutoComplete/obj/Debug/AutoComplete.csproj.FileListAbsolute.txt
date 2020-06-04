@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe.config
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Form1.resources
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe
+C:\Users\ASIF_PC\source\repos\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb

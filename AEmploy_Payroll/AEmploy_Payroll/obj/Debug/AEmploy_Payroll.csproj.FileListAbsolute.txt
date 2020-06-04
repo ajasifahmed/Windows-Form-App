@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\bin\Debug\AEmploy_Payroll.exe.config
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\bin\Debug\AEmploy_Payroll.exe
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\bin\Debug\AEmploy_Payroll.pdb
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.Form1.resources
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.exe
+C:\Users\ASIF_PC\source\repos\AEmploy_Payroll\AEmploy_Payroll\obj\Debug\AEmploy_Payroll.pdb

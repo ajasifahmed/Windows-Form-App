@@ -1,0 +1,15 @@
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\DatabaseFirstApproach.exe.config
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\DatabaseFirstApproach.exe
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\DatabaseFirstApproach.pdb
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.Form1.resources
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.CopyComplete
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.exe
+C:\Users\ASIF_PC\source\repos\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.pdb

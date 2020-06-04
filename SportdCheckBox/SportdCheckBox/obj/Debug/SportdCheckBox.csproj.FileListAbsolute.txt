@@ -1,0 +1,10 @@
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\bin\Debug\SportdCheckBox.exe.config
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\bin\Debug\SportdCheckBox.exe
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\bin\Debug\SportdCheckBox.pdb
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.Form1.resources
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.exe
+C:\Users\ASIF_PC\source\repos\SportdCheckBox\SportdCheckBox\obj\Debug\SportdCheckBox.pdb

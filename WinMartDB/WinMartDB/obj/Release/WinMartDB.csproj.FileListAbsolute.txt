@@ -1,0 +1,16 @@
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\bin\Release\WinMartDB.exe.config
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\bin\Release\WinMartDB.exe
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\bin\Release\WinMartDB.pdb
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.csprojAssemblyReference.cache
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.Add.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.BothTable.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.Form1.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.login.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.Properties.Resources.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.Signup.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.UpdateDelete.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.view.resources
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.csproj.GenerateResource.cache
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.csproj.CoreCompileInputs.cache
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.exe
+C:\Users\ASIF_PC\source\repos\WinMartDB\WinMartDB\obj\Release\WinMartDB.pdb
